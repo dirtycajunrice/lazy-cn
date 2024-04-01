@@ -1,0 +1,19 @@
+{
+  "name": "lazy-cn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "dirtycajunrice",
+  "license": "ISC",
+  "dependencies": {
+    "tailwind-merge": ">=2.2.2",
+    "clsx": ">=2.1.0"
+  },
+  "devDependencies": {
+    "typescript": ">=5"
+  }
+}
